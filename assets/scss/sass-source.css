@@ -1,0 +1,17 @@
+.promo-seacrh h2 {
+  font-size: 56px;
+  line-height: 67px;
+  padding: 20px 0;
+}
+.promo-seacrh .description {
+  font-size: 20px;
+  line-height: 30px;
+  color: #65665C;
+  padding-bottom: 20px;
+}
+.promo-seacrh .fsearch {
+  margin-right: 20px;
+}
+.promo-seacrh .btn-find {
+  color: #FFF;
+}/*# sourceMappingURL=sass-source.css.map */
